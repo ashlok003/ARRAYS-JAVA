@@ -46,6 +46,6 @@ public class Arrrays {
 //        int x = sc.nextInt();
 //        System.out.println("Last occurrence of element x is : "+lastOccurence(arr,x));
 //    }
-//    Q3.
+//    
 
 }
